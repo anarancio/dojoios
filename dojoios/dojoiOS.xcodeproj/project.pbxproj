@@ -24,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E07D0008177253D1005B7139 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E07DFF59176D60F0005B7139 /* dojoiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = dojoiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E07DFF5C176D60F0005B7139 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		E07DFF5E176D60F0005B7139 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -164,6 +165,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				es,
 			);
 			mainGroup = E07DFF50176D60EF005B7139;
 			productRefGroup = E07DFF5A176D60F0005B7139 /* Products */;
@@ -210,6 +212,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				E07DFF66176D60F0005B7139 /* en */,
+				E07D0008177253D1005B7139 /* es */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
